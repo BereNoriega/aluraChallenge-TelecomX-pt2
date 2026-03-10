@@ -1,7 +1,5 @@
 ### Telecom X – Parte 2: Predicción de Cancelación (Churn)
-Por Ana Berenice Noriega Camacho
-
-🔗 [LinkedIn](https://www.linkedin.com/in/berenice-noriega/)
+Por Ana Berenice Noriega Camacho - 🔗 [LinkedIn](https://www.linkedin.com/in/berenice-noriega/)
 
 Este es el tercer desafío del programa Oracle Next Education en colaboración con Alura LATAM, para especialización de Data Science. Es la continuación del desafío 2, TelecomX. 
 
