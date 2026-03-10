@@ -46,7 +46,7 @@ Google Colab permite ejecutar el código directamente desde el navegador y **no 
 ### Abrir directamente en Google Colab
 Pulsa el siguiente botón: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BereNoriega/aluraChallenge-TelecomX/blob/main/TelecomX_LATAM_Informe.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/BereNoriega/aluraChallenge-TelecomX-pt2/blob/main/TelecomX_LATAM_pt2_Machine_learning.ipynb)
 
 Para usar Google Colab solo necesitas:
 - Una **cuenta de Google**
