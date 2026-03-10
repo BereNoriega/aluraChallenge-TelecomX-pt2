@@ -115,7 +115,7 @@ Predecir la **cancelación de clientes (churn)** y entender las **variables más
 
 ## 📊 Resultados de modelos
 
-![Tabla de métricas](figures/best_model.png)
+![Tabla de métricas](best_model.png)
 
 > **Modelo seleccionado:** Random Forest (mayor generalización y ROC-AUC más alto).
 
@@ -123,7 +123,7 @@ Predecir la **cancelación de clientes (churn)** y entender las **variables más
 
 ## 🌟 Variables más importantes
 
-![Variables que aumentan vs previenen cancelación](figures/variables_churn.png)
+![Variables que aumentan vs previenen cancelación](variables_churn.png)
 
 - **Aumentan churn (rojo)**: contrato mensual, fibra óptica, facturación digital, pago por cheque electrónico, adulto mayor, sin seguridad online, sin soporte técnico.  
 - **Previenen churn (verde)**: contratos a 2 años, Internet DSL, soporte técnico, seguridad online, pagos automáticos con tarjeta, dependientes, servicios adicionales.  
