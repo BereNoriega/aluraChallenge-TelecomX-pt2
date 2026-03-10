@@ -33,7 +33,7 @@ La empresa quiere anticiparse al problema de la cancelación, y nos correspondí
 ## Notebook del proyecto
 El informe fue creado en un notebook de Python (.ipynb). En secciones siguientes, se explica cómo ejecutarlo para generar todas las visualizaciones. 
 
-- El nombre del archivo es: **TelecomX_LATAM_Informe.ipynb**
+- El nombre del archivo es: **TelecomX_LATAM_pt2_Machine_learning.ipynb**
 --
 
 ## Entorno de ejecución recomendado
@@ -68,7 +68,12 @@ Asegúrate de tener cargado el archivo TelecomX_Data.json en la carpeta de archi
 Este repositorio incluye los datos utilizados durante el proyecto:
 
 - **TelecomX_Data_Limpia.csv**  
-  Dataset después del proceso de **limpieza y transformación**.
+  Dataset limpiada y transformada en la primera parte del desafío (TelecomX), de la cual se extraen los datos.
+  - **df_encoded.pkl**  
+  Dataset después del proceso de **codificación**, realizada con One Hot Encoder en este reto.
+- **best_model.png y variables_churn.png**
+  Las imágenes más prepresentativas, que resumen los resultados del Challenge.
+
 
 Estos archivos permiten **reproducir completamente el flujo de trabajo del proyecto**.
 
